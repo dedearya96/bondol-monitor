@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # bondol-monitor
 
 https://bondol-monitor.vercel.app/
